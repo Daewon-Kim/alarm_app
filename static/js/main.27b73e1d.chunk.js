@@ -1,0 +1,2 @@
+(this.webpackJsonpalarm_app=this.webpackJsonpalarm_app||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),c=n(3),i=n.n(c),s=n(1);var p=function(){return Object(s.jsx)("div",{children:"Hi"})};i.a.render(Object(s.jsx)(a.a.StrictMode,{children:Object(s.jsx)(p,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.27b73e1d.chunk.js.map
