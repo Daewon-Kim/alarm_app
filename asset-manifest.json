@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/alarm_app/static/js/main.31acb00f.chunk.js",
-    "main.js.map": "/alarm_app/static/js/main.31acb00f.chunk.js.map",
+    "main.css": "/alarm_app/static/css/main.be75b996.chunk.css",
+    "main.js": "/alarm_app/static/js/main.2bb0e447.chunk.js",
+    "main.js.map": "/alarm_app/static/js/main.2bb0e447.chunk.js.map",
     "runtime-main.js": "/alarm_app/static/js/runtime-main.512d3c3d.js",
     "runtime-main.js.map": "/alarm_app/static/js/runtime-main.512d3c3d.js.map",
-    "static/js/2.52a1e77c.chunk.js": "/alarm_app/static/js/2.52a1e77c.chunk.js",
-    "static/js/2.52a1e77c.chunk.js.map": "/alarm_app/static/js/2.52a1e77c.chunk.js.map",
+    "static/js/2.b1ece336.chunk.js": "/alarm_app/static/js/2.b1ece336.chunk.js",
+    "static/js/2.b1ece336.chunk.js.map": "/alarm_app/static/js/2.b1ece336.chunk.js.map",
     "index.html": "/alarm_app/index.html",
-    "static/js/2.52a1e77c.chunk.js.LICENSE.txt": "/alarm_app/static/js/2.52a1e77c.chunk.js.LICENSE.txt"
+    "static/css/main.be75b996.chunk.css.map": "/alarm_app/static/css/main.be75b996.chunk.css.map",
+    "static/js/2.b1ece336.chunk.js.LICENSE.txt": "/alarm_app/static/js/2.b1ece336.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.512d3c3d.js",
-    "static/js/2.52a1e77c.chunk.js",
-    "static/js/main.31acb00f.chunk.js"
+    "static/js/2.b1ece336.chunk.js",
+    "static/css/main.be75b996.chunk.css",
+    "static/js/main.2bb0e447.chunk.js"
   ]
 }
