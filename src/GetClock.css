@@ -1,0 +1,11 @@
+.present_time_clock{
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 115px;
+  left: 0;
+  right: 0;
+  color: skyblue;
+  font-size: 70px;
+}
+
