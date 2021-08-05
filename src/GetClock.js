@@ -30,7 +30,7 @@ class GetClock extends React.Component{
   render() {
       return (
         <div className="present_time_clock">
-          {this.state.date.getHours()}:{this.state.date.getMinutes()}:{this.state.date.getSeconds()}
+          {String(this.state.date.getHours()).padStart(2,0)}:{String(this.state.date.getMinutes()).padStart(2,0)}:{String(this.state.date.getSeconds()).padStart(2,0)}
         </div>
       );
     }
@@ -38,3 +38,4 @@ class GetClock extends React.Component{
 
 export default GetClock;
 
+          /*{this.state.date.getHours()}:{this.state.date.getMinutes()}:{this.state.date.getSeconds()}*/
